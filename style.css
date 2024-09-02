@@ -212,3 +212,8 @@ button:hover {
     /* background-color:  #333333; */
     transform: scale(1.06);
 }
+
+#normal{
+color:#19c7f3;
+background-color: white;
+}
